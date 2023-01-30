@@ -8,18 +8,15 @@ from bs4 import BeautifulSoup
 # declare variables
 wiki_url = "https://en.wikipedia.org/wiki/List_of_professional_sports_leagues_by_revenue"
 
-# function to test if connection successful, if so proceed
-def test_request():
-    page = requests.get(wiki_url)
-    response_code = page.status_code
-    #check request is successful
-    print("Connected" if page.status_code == 200 else "Error: " + page.status_code)
-    return page
-
 def extract_data():
 
-    test_request()
-
+    page = requests.get(wiki_url)
+    response_code = page.status_code
+    #check request is successful, if not exit
+    print("Connected" if response_code == 200 else "Error: " + page.status_code)
+    if response_code != 200:
+        return
+    
     soup = BeautifulSoup(page.content, 'html.parser')
     table = soup.find('table',{'class':'wikitable sortable'})
     # fix headers
@@ -34,5 +31,7 @@ def extract_data():
             continue
         rows.append(beautified_value)
 
-test_request()
+def clean_data():
+    
+
 extract_data()
