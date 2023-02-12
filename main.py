@@ -30,8 +30,29 @@ def extract_data():
         if len(beautified_value) == 0:
             continue
         rows.append(beautified_value)
+    # pass output to dataframe
+    df = pd.DataFrame(columns=list_headers, data=rows)
 
-def clean_data():
+    return df
+
+def transform_data(df):
+    # cleanse data as needed
+    #drop the reference column
+    df.drop(columns='Ref.',inplace=True)
+    #drop the references within columns (indicated by square brackets)
+    df.replace(to_replace='\[.*?\]', value="", regex=True, inplace=True)
+    #split countries
+    df['Country(ies)'] = [x[2].split('\xa0') for x in rows]
+    #convert revenue to floats, teams and level to integer
+    df[['Matches / Games / Events', 'Revenue (M Euro)', 'Revenue p/Team', 'Revenue p/Match (thousands)']] = df[['Matches / Games / Events', 'Revenue (M Euro)', 'Revenue p/Team', 'Revenue p/Match (thousands)']].replace(to_replace=',', value="", regex=True)
+    df = df.astype(
+        {'League':'string'
+        , 'Sport':'string'
+        , 'Matches / Games / Events':'float'
+        , 'Revenue (M Euro)':'float'
+        , 'Revenue p/Team':'float'
+        , 'Revenue p/Match (thousands)':'float'}
+        )
     
 
-extract_data()
+
