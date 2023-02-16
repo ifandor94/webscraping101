@@ -1,0 +1,5 @@
+2023-Feb-16-18:53-04,ETL Job Started
+2023-Feb-16-18:53-04,Extract phase started
+2023-Feb-16-18:53-04,Extract phase ended: Success
+2023-Feb-16-18:53-04,Transform phase started
+2023-Feb-16-18:53-04,Transform phase complete
