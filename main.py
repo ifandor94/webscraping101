@@ -4,6 +4,7 @@
 import pandas as pd
 import requests
 import sys
+import os
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -57,6 +58,13 @@ def transform_data(df, rows):
         , 'Revenue p/Team':'float'
         , 'Revenue p/Match (thousands)':'float'}
         )
+    # add a run date column
+    df['run_datetime'] = datetime.now().strftime('%Y-%h-%d-%H:%M-%S')
+    return df
+    
+def load_data(df):
+    targetfile = "sports_leagues_by_revenue_data.csv"
+    df.to_csv(targetfile, mode='a', header=not os.path.exists(targetfile))
 
 def log(message):
     timestamp_format = '%Y-%h-%d-%H:%M-%S'
@@ -76,13 +84,13 @@ if status != 'Success':
     sys.exit()
 
 log("Transform phase started")
-transform_data(extracted_data, rows)
+transformed_data = transform_data(extracted_data, rows)
 log("Transform phase complete")
 
+log("Load phase started")
+load_data(transformed_data)
+log("Load phase complete")
 
+log("ETL Job Ended")
 
-
-
-# next step is to create a run log and to save the data. Maybe CSV to start, then SQL?
-
-
+# next stage is to try and write data to a file on one drive instead and to schedule the python script

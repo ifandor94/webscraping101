@@ -1,0 +1,101 @@
+,League,Sport,Country(ies),Season,Level on Pyramid,Teams,Matches / Games / Events,Revenue (M Euro),Revenue p/Team,Revenue p/Match (thousands),run_datetime
+0,National Football League (NFL),American football,['United States'],2022,1,32,285.0,17035.0,532.35,59772.0,2023-Feb-16-19:21-08
+1,Major League Baseball (MLB),Baseball,"['United States', 'Canada']",2019,1,30,2467.0,9780.0,326.0,3964.0,2023-Feb-16-19:21-08
+2,National Basketball Association (NBA),Basketball,"['United States', 'Canada']",2021-22,1,30,1324.0,9541.0,318.0,7206.0,2023-Feb-16-19:21-08
+3,Premier League (EPL),Association football,"['England ', 'Wales']",2021–22,1,20,380.0,6100.0,305.0,15432.0,2023-Feb-16-19:21-08
+4,National Hockey League (NHL),Ice hockey,"['United States ', 'Canada']",2021-22,1,32,1358.0,4920.0,153.0,3608.0,2023-Feb-16-19:21-08
+5,Campeonato Nacional de Liga de Primera División (La Liga),Association football,['Spain'],2021–22,1,20,380.0,3400.0,170.0,8800.0,2023-Feb-16-19:21-08
+6,Fußball-Bundesliga (Bundesliga),Association football,['Germany'],2021–22,1,18,306.0,3000.0,150.0,11288.0,2023-Feb-16-19:21-08
+7,Lega Nazionale Professionisti Serie A (Serie A),Association football,['Italy'],2021-22,1,20,380.0,2300.0,115.0,6793.0,2023-Feb-16-19:21-08
+8,Championnat de France de football (Ligue 1),Association football,"['France', 'Monaco']",2021-22,1,20,380.0,1700.0,85.0,4979.0,2023-Feb-16-19:21-08
+9,Major League Soccer (MLS),Association football,"['United States', 'Canada']",2022,1,28,489.0,1490.0,53.6,3272.0,2023-Feb-16-19:21-08
+10,Nippon Professional Baseball (NPB),Baseball,['Japan'],2016,1,12,880.0,1184.0,98.7,1345.0,2023-Feb-16-19:21-08
+11,Indian Premier League (IPL),Twenty20 cricket,['India'],2023,1,10,74.0,1181.0,118.1,15971.0,2023-Feb-16-19:21-08
+12,Australian Football League (AFL),Australian rules football,['Australia'],2019,1,18,207.0,961.0,53.4,4642.0,2023-Feb-16-19:21-08
+13,Chinese Football Association Super League (CSL),Association football,['China'],2016,1,16,240.0,945.0,59.0,3938.0,2023-Feb-16-19:21-08
+14,Russian Premier League (RPL),Association football,['Russia'],2018–19,1,16,240.0,876.0,54.8,3650.0,2023-Feb-16-19:21-08
+15,J1 League,Association football,['Japan'],2017,1,18,306.0,860.0,48.0,2810.0,2023-Feb-16-19:21-08
+16,Kontinental Hockey League (KHL),Ice hockey,"['Russia', 'Belarus', 'China', 'Kazakhstan[j]']",2016–17,1,24,944.0,820.0,28.3,869.0,2023-Feb-16-19:21-08
+17,Campeonato Brasileiro Série A (Brasileirão),Association football,['Brazil'],2020,1,20,380.0,783.4,39.2,2062.0,2023-Feb-16-19:21-08
+18,2. Fußball-Bundesliga (2. Bundesliga),Association football,['Germany'],2018–19,2,18,306.0,781.5,43.4,2554.0,2023-Feb-16-19:21-08
+19,English Football League Championship (EFL Championship),Association football,"['England', 'Wales']",2020–21,2,24,557.0,699.3,29.2,1256.0,2023-Feb-16-19:21-08
+20,Turkish Süper Lig,Association football,['Turkey'],2018–19,1,18,306.0,670.0,37.2,2190.0,2023-Feb-16-19:21-08
+21,Eredivisie,Association football,['Netherlands'],2018–19,1,10,312.0,578.0,32.1,1853.0,2023-Feb-16-19:21-08
+22,Chinese Basketball Association (CBA),Basketball,['China'],2015–16,1,20,405.0,575.8,28.8,1422.0,2023-Feb-16-19:21-08
+23,Liga MX,Association football,['Mexico'],2018-19,1,18,334.0,555.0,30.8,1662.0,2023-Feb-16-19:21-08
+24,Primeira Liga,Association football,['Portugal'],2018–19,1,18,306.0,524.0,29.1,1712.0,2023-Feb-16-19:21-08
+25,Liga Profesional de Fútbol,Association football,['Argentina'],2018–19,1,26,325.0,490.8,18.9,1510.0,2023-Feb-16-19:21-08
+26,Belgian First Division A,Association football,['Belgium'],2018–19,1,16,191.0,445.0,27.8,2330.0,2023-Feb-16-19:21-08
+27,Korea Baseball Organization League (KBO League),Baseball,['South Korea'],2018,1,10,590.0,396.3,39.6,672.0,2023-Feb-16-19:21-08
+28,Lega Nazionale Professionisti B (Serie B),Association football,['Italy'],2017–18,2,22,470.0,353.0,16.0,751.0,2023-Feb-16-19:21-08
+29,National Rugby League (NRL),Rugby league football,"['Australia', 'New Zealand']",2020,1,16,201.0,342.8,21.4,1705.0,2023-Feb-16-19:21-08
+30,Championnat de France de rugby à XV (Top 14),Rugby union football,['France'],2017–18,1,14,187.0,337.2,24.1,1803.0,2023-Feb-16-19:21-08
+31,Campeonato Nacional de Liga de Segunda División (LaLiga2),Association football,['Spain'],2017–18,2,22,468.0,326.8,14.9,698.0,2023-Feb-16-19:21-08
+32,K League,Association football,['South Korea'],2019,1,12,228.0,287.0,23.9,1258.0,2023-Feb-16-19:21-08
+33,J2 League,Association football,['Japan'],2015,2,22,462.0,262.0,11.9,567.0,2023-Feb-16-19:21-08
+34,Saudi Professional League (SPL),Association football,['Saudi Arabia'],2016–17,1,14,182.0,254.6,18.2,1399.0,2023-Feb-16-19:21-08
+35,Premiership Rugby,Rugby union football,['England'],2015–16,1,12,135.0,251.4,21.0,1862.0,2023-Feb-16-19:21-08
+36,Scottish Premiership (SPL),Association football,['Scotland'],2018–19,1,12,228.0,237.0,19.8,1039.0,2023-Feb-16-19:21-08
+37,Swiss Super League,Association football,"['Switzerland', 'Liechtenstein[s]']",2018–19,1,10,180.0,230.0,14.4,958.0,2023-Feb-16-19:21-08
+38,Austrian Football Bundesliga,Association football,['Austria'],2018–19,1,12,192.0,224.0,18.7,1167.0,2023-Feb-16-19:21-08
+39,Championnat de France de football de Ligue 2 (Ligue 2),Association football,['France'],2016–17,2,20,380.0,219.0,11.0,576.0,2023-Feb-16-19:21-08
+40,English Football League One (EFL League One),Association football,"['England', 'Wales[t]']",2018–19,3,24,557.0,215.5,9.0,387.0,2023-Feb-16-19:21-08
+41,Danish Superliga,Association football,['Denmark'],2018–19,1,14,250.0,197.0,14.1,788.0,2023-Feb-16-19:21-08
+42,Swedish Hockey League (SHL),Ice hockey,['Sweden'],2018–19,1,14,409.0,183.0,13.0,447.0,2023-Feb-16-19:21-08
+43,Categoria Primera A,Association football,['Colombia'],–,1,18,452.0,176.0,10.0,389.0,2023-Feb-16-19:21-08
+44,Big Bash League,Twenty20 cricket,['Australia'],2018–19,1,8,59.0,173.0,21.6,2932.0,2023-Feb-16-19:21-08
+45,National League (NL),Ice hockey,['Switzerland'],2013–14,1,12,339.0,167.0,13.9,493.0,2023-Feb-16-19:21-08
+46,Allsvenskan,Association football,['Sweden'],2019,1,16,240.0,156.0,9.8,650.0,2023-Feb-16-19:21-08
+47,B1 League,Basketball,['Japan'],2017–18,1,18,561.0,153.4,8.5,273.0,2023-Feb-16-19:21-08
+48,Basketball Bundesliga (BBL),Basketball,['Germany'],2022–23,1,18,328.0,153.0,8.5,466.0,2023-Feb-16-19:21-08
+49,Eliteserien,Association football,['Norway'],2017,1,16,240.0,152.0,9.5,633.0,2023-Feb-16-19:21-08
+50,Ekstraklasa,Association football,['Poland'],2016–17,1,16,296.0,152.0,9.5,514.0,2023-Feb-16-19:21-08
+51,Canadian Football League (CFL),Canadian football,['Canada'],2018,1,9,86.0,143.0,15.9,1663.0,2023-Feb-16-19:21-08
+52,3. Fußball-Liga (3. Liga),Association football,['Germany'],2017–18,3,20,380.0,143.0,7.2,376.0,2023-Feb-16-19:21-08
+53,Deutsche Eishockey Liga (DEL),Ice hockey,['Germany'],2018–19,1,14,410.0,136.0,9.3,317.0,2023-Feb-16-19:21-08
+54,Lega Italiana Calcio Professionistico (Serie C),Association football,['Italy'],2017–18,3,57,990.0,126.0,2.2,127.0,2023-Feb-16-19:21-08
+55,Liga de la Asociación de Clubs de Baloncesto (Liga ACB),Basketball,"['Spain', 'Andorra']",2016–17,1,18,295.0,120.4,6.68,408.0,2023-Feb-16-19:21-08
+56,Championnat de France de rugby à XV de 2e division (Rugby Pro D2),Rugby union football,['France'],2017–18,2,16,215.0,119.7,7.5,557.0,2023-Feb-16-19:21-08
+57,Kazakhstan Premier League,Association football,['Kazakhstan'],2017,1,12,198.0,118.0,9.8,596.0,2023-Feb-16-19:21-08
+58,Superleague Greece,Association football,['Greece'],2016–17,1,16,252.0,118.0,7.4,468.0,2023-Feb-16-19:21-08
+59,Liiga,Ice hockey,['Finland'],2018–19,1,15,495.0,117.0,7.8,236.0,2023-Feb-16-19:21-08
+60,Chilean Primera Division,Association football,['Chile'],–,1,18,194.0,113.0,6.3,582.0,2023-Feb-16-19:21-08
+61,Caribbean Premier League (CPL),Twenty20 cricket,['West Indies'],2018,1,6,34.0,112.0,18.6,3294.0,2023-Feb-16-19:21-08
+62,South African Premier Division,Association football,['South Africa'],2019-20,1,16,240.0,53.4,3.3,222.0,2023-Feb-16-19:21-08
+63,Israeli Premier League,Association football,['Israel'],2016–17,1,14,240.0,108.0,7.7,450.0,2023-Feb-16-19:21-08
+64,Handball-Bundesliga (HBL),Handball,['Germany'],2018–19,1,18,306.0,105.0,5.8,343.0,2023-Feb-16-19:21-08
+65,English Football League Two (EFL League Two),Association football,"['England', 'Wales']",2018–19,4,24,557.0,102.7,4.3,184.0,2023-Feb-16-19:21-08
+66,Ligue Nationale de Basket Pro A (LNB Pro A),Basketball,['France'],2018–19,1,18,326.0,96.3,5.3,295.0,2023-Feb-16-19:21-08
+67,Egyptian Premier League,Association football,['Egypt'],–,1,20,306.0,95.0,4.7,310.0,2023-Feb-16-19:21-08
+68,Super Rugby,Rugby union football,"['Australia', 'New Zealand']",2018,1 (Int.),15,127.0,94.0,7.0,740.0,2023-Feb-16-19:21-08
+69,Nemzeti Bajnokság I,Association football,['Hungary'],2016–17,1,12,198.0,89.0,7.4,449.0,2023-Feb-16-19:21-08
+70,Ukrainian Premier League (UPL),Association football,['Ukraine'],2016–17,1,14,186.0,89.0,6.4,478.0,2023-Feb-16-19:21-08
+71,EuroLeague,Basketball,['Europe'],2021-22,1 (Int.),18,283.0,87.0,4.83,307.0,2023-Feb-16-19:21-08
+72,Czech First League,Association football,['Czech Republic'],2016–17,1,16,240.0,74.0,4.6,308.0,2023-Feb-16-19:21-08
+73,Mexican Pacific League (Liga Mexicana del Pacífico; LMP),Baseball,['Mexico'],2012–13,1,8,306.0,72.0,9.0,235.0,2023-Feb-16-19:21-08
+74,Liga I,Association football,['Romania'],2016–17,1,14,268.0,71.0,5.1,265.0,2023-Feb-16-19:21-08
+75,Indian Super League (ISL),Association football,['India'],2018-19,1,11,117.0,65.0,6.5,684.0,2023-Feb-16-19:21-08
+76,A-League,Association football,"['Australia', 'New Zealand']",2017–18,1,10,140.0,63.0,6.3,450.0,2023-Feb-16-19:21-08
+77,Eerste Divisie,Association football,['Netherlands'],2014–15,2,20,380.0,61.0,3.1,161.0,2023-Feb-16-19:21-08
+78,Super League,Rugby league football,"['England', 'France[aa]']",2015,1,12,195.0,60.0,5.0,308.0,2023-Feb-16-19:21-08
+79,Cypriot First Division,Association football,['Cyprus'],2016–17,1,14,242.0,60.0,4.3,248.0,2023-Feb-16-19:21-08
+80,Women's National Basketball Association (WNBA),Basketball,['United States'],2019,1,12,220.0,53.8,4.5,245.0,2023-Feb-16-19:21-08
+81,Bangladesh Premier League,Twenty20 cricket,['Bangladesh'],2016–17,1,7,46.0,53.5,7.6,1164.0,2023-Feb-16-19:21-08
+82,Croatian First Football League (1. HNL),Association football,['Croatia'],2016–17,1,10,180.0,42.0,4.2,233.0,2023-Feb-16-19:21-08
+83,Vyšejšaja Liha (Belarusian Premier League),Association football,['Belarus'],2017,1,16,223.0,41.0,2.6,184.0,2023-Feb-16-19:21-08
+84,First Professional Football League (Bulgarian First League),Association football,['Bulgaria'],2016–17,1,10,240.0,40.0,4.0,167.0,2023-Feb-16-19:21-08
+85,LNB Pro B,Basketball,['France'],2018-19,2,18,323.0,38.5,2.1,119.0,2023-Feb-16-19:21-08
+86,J3 League,Association football,['Japan'],2015,3,12,234.0,35.0,2.9,150.0,2023-Feb-16-19:21-08
+87,UAE Pro League,Association football,['United Arab Emirates'],2013–14,1,14,182.0,34.7,2.5,191.0,2023-Feb-16-19:21-08
+88,Azerbaijan Premier League,Association football,['Azerbaijan'],2016–17,1,10,112.0,34.0,3.4,303.0,2023-Feb-16-19:21-08
+89,Serbian SuperLiga,Association football,['Serbia'],2016–17,1,16,296.0,32.0,2.0,108.0,2023-Feb-16-19:21-08
+90,Slovak Super Liga,Association football,['Slovakia'],2016–17,1,12,165.0,32.0,2.7,194.0,2023-Feb-16-19:21-08
+91,Persian Gulf Pro League,Association football,['Iran'],2015–16,1,16,240.0,29.0,1.8,121.0,2023-Feb-16-19:21-08
+92,United Rugby Championship,Rugby union football,"['Ireland', 'Italy', 'Scotland', 'South Africa', 'Wales']",2017–18,1 (Int.),14,153.0,26.9,1.9,176.0,2023-Feb-16-19:21-08
+93,Primera Categoría Serie A (Ecuadorian Serie A),Association football,['Ecuador'],2018,1,12,266.0,25.0,2.1,94.0,2023-Feb-16-19:21-08
+94,Veikkausliiga,Association football,['Finland'],2017,1,12,198.0,25.0,2.1,126.0,2023-Feb-16-19:21-08
+95,Mexican Baseball League (Liga Mexicana de Béisbol; LMB),Baseball,['Mexico'],2016,1,16,923.0,23.0,1.5,25.0,2023-Feb-16-19:21-08
+96,Russian Volleyball Super League (RVSL),Volleyball,['Russia'],2017,1,14,201.0,21.9,1.6,109.0,2023-Feb-16-19:21-08
+97,Women's Premier League (cricket) (WPL),Twenty20 cricket,['India'],2023,1,5,23.0,21.4,4.3,930.0,2023-Feb-16-19:21-08
+98,USL Championship (USL),Association football,['United States'],2018,2,33,561.0,21.0,0.64,37.5,2023-Feb-16-19:21-08
+99,Israeli Basketball Premier League (ISBL),Basketball,['Israel'],2018–19,1,12,215.0,20.0,1.7,93.0,2023-Feb-16-19:21-08
